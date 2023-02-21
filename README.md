@@ -6,7 +6,7 @@ Inspired by Parkour. (https://www.roblox.com/games/445664957/Parkour)
 
 Thank you for downloading this map, i have spent about a week working on it.
 
-Put the map file in the sandbox folder in order for map to work.
+Please credit me properly if going to showcase/record this map(link to github in desc, optionally addition of my discord for extra swag points)
 
 Please follow rules for best map expirience.
 
@@ -18,7 +18,7 @@ No gun usage.
 
 Only 3 slam bounces in a row/combo.
 
-No cheats.
+No cheats.(unless to get back on buildings or to challange pad)
 
 No using any kind of whiplash fix modification.
 
