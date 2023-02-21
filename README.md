@@ -13,7 +13,7 @@ RULES:
 No slam storage.
 No gun usage.
 Only 3 slam bounces in a row/combo.
-No cheats
+No cheats.
 No using any kind of whiplash fix modification.
 Use your fucking brain to determinate what is okay and not okay to do.
 
@@ -29,7 +29,7 @@ I AM THE DANGER - Climb THE tower starting from test tower in under 130 seconds.
 
 General tips:
 
-To wallrun, slide/leap onto a wall and hold a or d
+To wallrun, slide/leap onto a wall and hold a or d.
 Get a lot of horizontal and vertical momentum by leaping on third slam bounce (2 slam bounces, finish off with a leap)
 
 GLHF!
