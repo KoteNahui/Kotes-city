@@ -8,6 +8,7 @@ Thank you for downloading this map, i have spent about a week working on it.
 
 Please credit me properly if going to showcase/record this map(link to github in desc, optionally addition of my discord for extra swag points)
 
+
 Please follow rules for best map expirience.
 
 RULES:
@@ -23,6 +24,7 @@ No cheats.(unless to get back on buildings or to challange pad)
 No using any kind of whiplash fix modification.
 
 Use your fucking brain to determinate what is okay and not okay to do.
+
 
 Bored? No worries, u can try out challanges!
 
@@ -41,6 +43,7 @@ I hate pipes(and so do i) - Use every blue whiplash point without touching groun
 
 I AM THE DANGER - Climb THE tower starting from test tower in under 130 seconds.
 
+
 General tips:
 
 To wallrun, slide/leap onto a wall and hold a or d.
@@ -48,6 +51,7 @@ To wallrun, slide/leap onto a wall and hold a or d.
 Get a lot of horizontal and vertical momentum by leaping on third slam bounce (2 slam bounces, finish off with a leap)
 
 GLHF!
+
 
 If got any questions hit me up on discord.
 
