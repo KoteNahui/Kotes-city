@@ -35,5 +35,6 @@ Get a lot of horizontal and vertical momentum by leaping on third slam bounce (2
 GLHF!
 
 If got any questions hit me up on discord.
+
 (probably) Expect map expansion.
 
