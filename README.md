@@ -19,7 +19,7 @@ No gun usage.
 
 Only 3 slam bounces in a row/combo.
 
-No cheats.(unless to get back on buildings or to challange pad)
+No cheats.(unless to get back after fell on the ground or to challange pad)
 
 No using any kind of whiplash fix modification.
 
@@ -39,7 +39,7 @@ Testing what? - Climb the test tower in under 45 seconds.
 
 Groundless% - Use every blue whiplash point without touching ground. (without stepping onto rock material)
 
-I hate pipes(and so do i) - Use every blue whiplash point without touching ground (without stepping onto rock material AND props)
+I hate pipes(and so do i) - Use every blue whiplash point without touching ground (without stepping onto rock material AND props, which means PIPES ONLY)
 
 I AM THE DANGER - Climb THE tower starting from test tower in under 130 seconds.
 
