@@ -21,8 +21,6 @@ Only 3 slam bounces in a row/combo.
 
 No cheats.(unless to get back after fell on the ground or to challange pad)
 
-No using any kind of whiplash fix modification.
-
 Use your fucking brain to determinate what is okay and not okay to do.
 
 
