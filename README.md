@@ -1,5 +1,11 @@
 Made by коте#8772
 
+THIS MAP IS BROKEN NOW blame wait of the world update
+
+however i am working on 2.0 version which will be more optimized, bigger, better, detailed.
+
+see yall in approximately 1 month!
+
 ITS A MOVEMENT MAP.
 
 Inspired by Parkour. (https://www.roblox.com/games/445664957/Parkour)
