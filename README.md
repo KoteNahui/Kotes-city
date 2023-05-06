@@ -14,7 +14,7 @@ Inspired by Parkour. (https://www.roblox.com/games/445664957/Parkour)
 
 Thank you for downloading this map, i have spent about a week working on it.
 
-Please credit me properly if going to showcase/record this map(link to github in desc, optionally addition of my discord tagfor extra swag points)
+Please credit me properly if going to showcase/record this map(link to github in desc, optionally addition of my discord tag for extra swag points)
 
 
 Please follow rules for best map expirience.
